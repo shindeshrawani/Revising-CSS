@@ -1,0 +1,23 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    font-size: 22px;
+}
+p {
+    color: brown;
+}
+.gray {
+    color:darkmagenta;
+}
+
+#second {
+    font-style: italic;
+}
+h1,h2{
+    color: darkgreen;
+}
+.highlight {
+     background-color: aqua;
+}
